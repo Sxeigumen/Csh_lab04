@@ -144,7 +144,6 @@ namespace Ex3
                 elem.print();
             }
             Console.WriteLine("=================");
-
         }
     }
 }
